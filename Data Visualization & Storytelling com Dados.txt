@@ -1,0 +1,30 @@
+Data Visualization & Storytelling com Dados
+
+A visualização de dados e o storytelling com dados são essenciais para transformar dados brutos em informações compreensíveis e persuasivas. Neste repositório, abordaremos métodos e melhores práticas para uma visualização eficaz e a criação de layouts impactantes. Ao seguir esses métodos e melhores práticas, é possível criar visualizações de dados que não apenas informam, mas também envolvem e persuadem o público, facilitando a tomada de decisões baseadas em dados.
+
+O que será retratado: 
+
+- Escolha do Gráficos Adequado.
+- Simetria e Harmonia Visual
+- Cores e Contrastes
+- Hierarquia de Informação
+- Clareza e Simplicidade
+- Anotações e Contexto
+- Narrativa Clara
+- Engajamento Emocional
+
+Softwares de Desenvolvimento & Linguagem de Programação: 
+
+- Python
+- Jupyter Notebook
+- Visual Studio Code
+
+Programas de Visualização de Dados & Componentes: 
+
+- Matplotlib
+- Seaborn
+- Pandas 
+- Numpy
+
+
+O Storytelling com Dados é uma habilidade poderosa que combina a análise de dados com a arte de contar histórias. Um bom Storytelling com Dados deve ser claro, envolvente e orientado para a ação. Deve transformar dados complexos em narrativas compreensíveis que não só informam, mas também inspiram e motivam o público a tomar decisões informadas. Ao utilizar métodos eficazes de visualização e seguir as melhores práticas de layout, é possível criar histórias com dados que ressoam e têm impacto duradouro.
